@@ -1,4 +1,4 @@
-# 🛒 dyantrabalhofrontend
+# 🛒 frontend
 
 Bem-vindo ao meu projeto de Frontend! 👋
 
